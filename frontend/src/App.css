@@ -1,0 +1,10 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+#app {
+  background-image: url("silvia.jpg");
+  background-position: cover;
+  background-repeat: no-repeat;
+  object-fit: contain;
+}
