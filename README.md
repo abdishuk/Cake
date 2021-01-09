@@ -2,7 +2,7 @@
 
 Clone the repository and change directory to cloned folder or download a zip file
 
-https://github.com/abdishuk/Cake.git
+git clone https://github.com/abdishuk/Cake.git
 
 cd Cakeshop
 Install all dependencies with NPM.
